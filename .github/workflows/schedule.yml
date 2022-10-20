@@ -1,6 +1,6 @@
 name: Update gist
 on:
-  push:
+  push: 
     branches:
       - master
   schedule:
